@@ -1,0 +1,17 @@
+{
+  "name": "Simple-telegram-bot",
+  "version": "1.1.0",
+  "description": "Simple telegram chat-bot",
+  "main": "index.js",
+  "author": "TAB_mk",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "9.4.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
